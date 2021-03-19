@@ -4,15 +4,17 @@
 
 </div>
 
-### Project 1-2 · [How to Learn](https://github.com/artginzburg/how-to-learn)
+## Course works
+
+### 1. Project 1-2 · [How to Learn](https://github.com/artginzburg/how-to-learn)
 
 Finished in 7 days (only counting the days I commited to the project)
 
-### Project 3 · [Russian Travel](https://github.com/artginzburg/russian-travel)
+### 2. Project 3 · [Russian Travel](https://github.com/artginzburg/russian-travel)
 
 Finished in 3 days
 
-### Project 4 · [Mesto](https://github.com/artginzburg/mesto)
+### 3. Project 4-5 · [Mesto](https://github.com/artginzburg/mesto)
 
 Finished in 5 days
 
