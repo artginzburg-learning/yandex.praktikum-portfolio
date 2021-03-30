@@ -8,15 +8,15 @@
 
 ### 1. Project 1-2 · [How to Learn](https://github.com/artginzburg/how-to-learn)
 
-Finished in 7 days (only counting the days I commited to the project)
+Finished in 7 days
 
 ### 2. Project 3 · [Russian Travel](https://github.com/artginzburg/russian-travel)
 
 Finished in 3 days
 
-### 3. Project 4-5 · [Mesto](https://github.com/artginzburg/mesto)
+### 3. Project 4-6 · [Mesto](https://github.com/artginzburg/mesto)
 
-Finished in 5 days
+Finished in 14 days
 
 
 
