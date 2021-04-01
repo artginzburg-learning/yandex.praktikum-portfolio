@@ -22,7 +22,7 @@ Finished in 14 days
 ## Achievements <sup>by difficulty</sup>
 
 - [x] Break through the autotests right away ([Project 5](https://github.com/artginzburg/mesto/releases/tag/project-5_review-2-final))
-- [x] Pass a project in a single review ([Project 6](https://github.com/artginzburg/mesto/releases/tag/project-6_review-1-final))
+- [x] Pass a review in one attempt ([Project 6](https://github.com/artginzburg/mesto/releases/tag/project-6_review-1-final))
 - [x] Submit a project for the first review, working the first day ([Project 7](https://github.com/artginzburg/mesto/releases/tag/project-7_review-1))
 - [ ] Finish a project in one day
 - [ ] Complete a project one month before the deadline
