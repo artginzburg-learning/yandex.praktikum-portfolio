@@ -25,6 +25,7 @@ Finished in 14 days
 - [x] Pass a project in a single review ([Project 6](https://github.com/artginzburg/mesto/releases/tag/project-6_review-1-final))
 - [x] Submit a project for the first review, working the first day ([Project 7](https://github.com/artginzburg/mesto/releases/tag/project-7_review-1))
 - [ ] Finish a project in one day
+- [ ] Complete a project one month before the deadline
 
 ### Fun
 - [x] Mess up a review by forgetting to clean up unused code ([Project 1](https://github.com/artginzburg/how-to-learn/releases/tag/project-1_review-3-final))
