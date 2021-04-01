@@ -23,11 +23,12 @@ Finished in 14 days
 
 - [x] Break through the autotests right away ([Project 5](https://github.com/artginzburg/mesto/releases/tag/project-5_review-2-final))
 - [x] Pass a project in a single review ([Project 6](https://github.com/artginzburg/mesto/releases/tag/project-6_review-1-final))
-- [ ] Submit a project for the first review, working the first day
+- [x] Submit a project for the first review, working the first day ([Project 7](https://github.com/artginzburg/mesto/releases/tag/project-7_review-1))
 - [ ] Finish a project in one day
 
 ### Fun
 - [x] Mess up a review by forgetting to clean up unused code ([Project 1](https://github.com/artginzburg/how-to-learn/releases/tag/project-1_review-3-final))
+- [ ] Stay restless for a whole night finishing a project
 
 ## My overall opinion (Mar, 2021)
 
