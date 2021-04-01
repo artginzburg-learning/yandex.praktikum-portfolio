@@ -14,11 +14,20 @@ Finished in 7 days
 
 Finished in 3 days
 
-### 3. Project 4-6 · [Mesto](https://github.com/artginzburg/mesto)
+### 3-4. Project 4-7 · [Mesto](https://github.com/artginzburg/mesto)
 
 Finished in 14 days
 
 
+## Achievements <sup>by difficulty</sup>
+
+- [x] Break through the autotests right away ([Project 5](https://github.com/artginzburg/mesto/releases/tag/project-5_review-2-final))
+- [x] Pass a project in a single review ([Project 6](https://github.com/artginzburg/mesto/releases/tag/project-6_review-1-final))
+- [ ] Submit a project for the first review, working the first day
+- [ ] Finish a project in one day
+
+### Fun
+- [x] Mess up a review by forgetting to clean up unused code ([Project 1](https://github.com/artginzburg/how-to-learn/releases/tag/project-1_review-3-final))
 
 ## My overall opinion (Mar, 2021)
 
