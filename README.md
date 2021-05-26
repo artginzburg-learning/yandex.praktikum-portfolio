@@ -24,8 +24,8 @@ Finished in 18 days
 - [x] Break through the autotests right away ([Project 5](https://github.com/artginzburg/mesto/releases/tag/project-5_review-2-final))
 - [x] Pass a review in one attempt ([Project 6](https://github.com/artginzburg/mesto/releases/tag/project-6_review-1-final), [Project 9](https://github.com/artginzburg/mesto/releases/tag/project-9_review-1-final))
 - [x] Submit a project for the first review, working the first day ([Project 7](https://github.com/artginzburg/mesto/releases/tag/project-7_review-1))
+- [x] Complete a project one month before the deadline ([Project 8](https://github.com/artginzburg/mesto/releases/tag/project-8_final))
 - [ ] Finish a project in one day
-- [ ] Complete a project one month before the deadline
 
 ### Fun
 - [x] Mess up a review by forgetting to clean up unused code ([Project 1](https://github.com/artginzburg/how-to-learn/releases/tag/project-1_review-3-final))
