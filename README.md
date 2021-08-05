@@ -6,22 +6,9 @@
 
 ## Course works
 
-### 1. Project 1-2 · [How to Learn](https://github.com/artginzburg/how-to-learn)
+> I was too tired of duplicating links (and violating DRY) so here's a universal link containing all of my Praktikum projects
 
-Finished in 7 days
-
-### 2. Project 3 · [Russian Travel](https://github.com/artginzburg/russian-travel)
-
-Finished in 3 days
-
-### 3-4. Project 4-9 · [Mesto](https://github.com/artginzburg/mesto)
-
-Finished in 18 days
-
-### 5. Project 10 · [Mesto (React)](https://github.com/artginzburg/mesto-react)
-
-Finished in ?
-
+#### [Universal search link](https://github.com/search?q=Ya.Praktikum+user%3Aartginzburg+-repo%3Aartginzburg%2Fyandex.praktikum-portfolio&type=Repositories&ref=advsearch&l=&l=)
 
 ## Achievements <sup>by difficulty</sup>
 
