@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Art Ginzburg's [Yandex.Praktikum](https://praktikum.yandex.ru/) Portfolio
+  # Art Ginzburg's [Yandex.Praktikum](https://praktikum.yandex.ru/) Portfolio <sup><sup>[web-dev](https://praktikum.yandex.ru/web/) faculty</sup></sup>
 
 </div>
 
