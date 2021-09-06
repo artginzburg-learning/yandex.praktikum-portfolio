@@ -8,7 +8,7 @@
 
 > I was too tired of duplicating links (and violating DRY) so here's a universal link containing all of my Praktikum projects
 
-#### [Universal search link](https://github.com/search?q=Ya.Praktikum+user%3Aartginzburg+-repo%3Aartginzburg%2Fyandex.praktikum-portfolio&type=Repositories&ref=advsearch&l=&l=)
+#### [Universal search link](https://github.com/search?q=Ya.Praktikum+user:artginzburg+-repo:artginzburg/yandex.praktikum-portfolio&type=Repositories)
 
 ## Achievements <sup>by difficulty</sup>
 
